@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         else
         {
             tV.setText("This is a click number: "+counter);
-            tV.setTextColor(Color.GREEN);
+            tV.setTextColor(Color.BLUE);
         }
     }
 }
